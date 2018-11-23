@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+		<!--CIVILIZATION-->
+		<Row Tag="LOC_CIVILIZATION_LEU_ISRAEL_NAME" Language="en_US">
+			<Text>Israel</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_ISRAEL_DESCRIPTION" Language="en_US">
+			<Text>Israelite Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_ISRAEL_ADJECTIVE" Language="en_US">
+			<Text>Israelite</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_LEU_ISRAEL_DESCRIPTION_JFD_CIVILIZATION" Language="en_US">
+			<Text>Israel Civilization</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="LOC_CIVINFO_LEU_ISRAEL_LOCATION" Language="en_US">
+			<Text>Middle East</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_ISRAEL_POPULATION" Language="en_US">
+			<Text>8,786,860</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_ISRAEL_SIZE" Language="en_US">
+			<Text>8,522 sq mi (22,072 sq km)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_LEU_ISRAEL_CAPITAL" Language="en_US">
+			<Text>Jerusalem</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The oldest evidence of early humans in the territory of modern Israel, dating to 1.5 million years ago, was found in Ubeidiya near the Sea of Galilee. Other notable Paleolithic sites include caves Tabun, Qesem and Manot. The oldest fossils of anatomically modern humans found outside Africa are the Skhul and Qafzeh hominins, who lived in the area that is now northern Israel 120,000 years ago. Around 10th millennium BCE, the Natufian culture existed in the area.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>The early history of the territory is unclear.Modern archaeology has largely discarded the historicity of the narrative in the Torah concerning the patriarchs, The Exodus, and the conquest described in the Book of Joshua, and instead views the narrative as constituting the Israelites' inspiring national myth. Ancestors of the Israelites may have included ancient Semitic-speaking peoples native to Canaan. The Israelites and their culture, according to the modern archaeological account, did not overtake the region by force, but instead branched out of the Canaanite peoples and culture through the development of a distinct monolatristic—and later monotheistic—religion centered on Yahweh. The archaeological evidence indicates a society of village-like centres, but with more limited resources and a small population. Villages had populations of up to 300 or 400, which lived by farming and herding, and were largely self-sufficient; economic interchange was prevalent. Writing was known and available for recording, even in small sites.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>For reasons similar to other colonies owned by over-seas European powers, Mexico and other Spanish colonies sought to establish their sovereignty from their mother country in the early 1800s as tens of thousands armed themselves to fight for their freedom, with many popular figures in Mexican history coming about during this time. One figure in particular was a Catholic priest by the name of Father Miguel Hidalgo y Costilla, who rang his church's bells on the 16th of September in 1810, urging the local natives to "...Recover from the Spaniards the land stolen from your forefathers..." and is the date that Mexicans celebrate their independence. After Hidalgo was hanged by the Spaniards in 1811, he was succeeded by another priest, Jose Maria Morelos y Pavon, who was a much more able leader than his predecessor. Morels summoned a nation congress on November the 6th of 1812 that officially declared Mexico as a sovereign entity that was separate from Spain.[NEWLINE][NEWLINE] Although executed in 1815, his army of nationalists would be led by General Vicente Guerreo and would carry on the fight for six more years until 1821. Due to the conflicting ideas amongst royalist leaders in Mexico and their other various weaknesses, the revolutionary movement continued to garner strength as royalists defected to the side of the nationalists. One such officer, Agustin de Iturbide, joined forces with Guerrero to write the Plan of Iguala, which provided for national independence under a constitutional monarchy, henceforth named The Mexican Empire. While Iturbide was established as the first Emperor of the Empire, his reign was short lived as he was exiled from Mexico within less than a year of his leadership, being executed after returning to the country years later. In his wake, a new Mexican Republic was born under the leadership of its first president, Guadalupe Victoria. Victoria would see many reforms in Mexico ranging from education to establishing diplomatic relationships with the United States, Great Britain, France, and other major world powers at the time. During his reign, however, General Santa Anna maintained status as one of the dominant politicians in the new Empire, despite significant losses suffered by Mexico during the Texan secessionist movement and the proceeding Mexican-American war of 1846, in which Mexico lost Texas and most of its north western territory to the United States</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>While it is unclear if there was ever a United Monarchy, there is well accepted archeological evidence referring to "Israel" in the Merneptah Stele which dates to about 1200 BCE; and the Canaanites are archeologically attested in the Middle Bronze Age. There is debate about the earliest existence of the Kingdoms of Israel and Judah and their extent and power, but historians agree that a Kingdom of Israel existed by ca. 900 BCE:169–195 and that a Kingdom of Judah existed by ca. 700 BCE. The Kingdom of Israel was destroyed around 720 BCE, when it was conquered by the Neo-Assyrian Empire.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>In 586 BCE, King Nebuchadnezzar II of Babylon conquered Judah. According to the Hebrew Bible, he destroyed Solomon's Temple and exiled the Jews to Babylon. The defeat was also recorded in the Babylonian Chronicles. The Babylonian exile ended around 538 BCE under the rule of the Persian Cyrus the Great after he captured Babylon. The Second Temple was constructed around 520 BCE. As part of the Persian Empire, the former Kingdom of Judah became the province of Judah (Yehud Medinata) with different borders, covering a smaller territory. The population of the province was greatly reduced from that of the kingdom, archaeological surveys showing a population of around 30,000 people in the 5th to 4th centuries BCE.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_6" Language="en_US">
+			<Text>With successive Persian rule, the autonomous province Yehud Medinata was gradually developing back into urban society, largely dominated by Judeans. The Greek conquests largely skipped the region without any resistance or interest. Incorporated into Ptolemaic and finally Seleucid empires, the southern Levant was heavily hellenized, building the tensions between Judeans and Greeks. The conflict erupted in 167 BCE with the Maccabean Revolt, which succeeded in establishing an independent Hasmonean Kingdom in Judah, which later expanded over much of modern Israel, as the Seleucids gradually lost control in the region.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_LEU_ISRAEL_CHAPTER_HISTORY_PARA_7" Language="en_US">
+			<Text>The Roman Empire invaded the region in 63 BCE, first taking control of Syria, and then intervening in the Hasmonean Civil War. The struggle between pro-Roman and pro-Parthian factions in Judea eventually led to the installation of Herod the Great and consolidation of the Herodian kingdom as a vassal Judean state of Rome. With the decline of the Herodian dynasty, Judea, transformed into a Roman province, became the site of a violent struggle of Jews against Greco-Romans, culminating in the Jewish–Roman wars, ending in wide-scale destruction, expulsions, and genocide. Jewish presence in the region significantly dwindled after the failure of the Bar Kokhba revolt against the Roman Empire in 132 CE.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEU_ISRAEL_NAME" Language="en_US">
+			<Text>Holy Scriptures</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_LEU_ISRAEL_DESCRIPTION" Language="en_US">
+			<Text>Great Works of writing grant +4 [ICON_FAITH] Faith and +1 [ICON_FOOD] Food. Worship Buildings and Temples receive a Great Work of Writing slot. Holy Site Buildings are built 20% faster.</Text>
+		</Row>
+		
+		<!--MOD SUPPORT-->
+		<!--JFD Rule with Faith-->
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CHIEFDOM_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Nagid</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_HORDE_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Nagid</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_POLIS_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Adon</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_AUTOCRACY_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_CLASSICAL_DEMOCRACY_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Judge</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Nasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_OLIGARCHY_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Nasi</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Kahal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MERCHANT_REPUBLIC_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Kahal</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MONARCHY_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Queen</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Nadib</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_NOBLE_REPUBLIC_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Nadib</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_PEOPLES_REPUBLIC_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_LIBERAL_DEMOCRACY_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Prime Minister</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_MILITARY_GUARDIANSHIP_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_ISRAEL" Language="en_US">
+			<Text>Shaddai</Text>
+		</Row>
+		<Row Tag="LOC_GOVERNMENT_JFD_EMPIRE_LEADER_TITLE_LEU_ISRAEL_FEMININE" Language="en_US">
+			<Text>Shaddai</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Ed Beach (Firaxis Games) -->
+<GameData>
+	<LocalizedText>
+			<!-- Cities -->
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_01" Language="en_US">			<Text>Jerusalem</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_02" Language="en_US">			<Text>Hebron</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_03" Language="en_US">			<Text>Lachish</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_04" Language="en_US">			<Text>Caesarea</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_05" Language="en_US">			<Text>Samaria</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_06" Language="en_US">			<Text>Manahaim</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_07" Language="en_US">			<Text>Jaffa</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_08" Language="en_US">			<Text>Shiloh</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_09" Language="en_US">			<Text>Gibeon</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_10" Language="en_US">			<Text>Jericho</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_11" Language="en_US">			<Text>Megiddo</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_12" Language="en_US">			<Text>Gezer</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_13" Language="en_US">			<Text>Hazor</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_14" Language="en_US">			<Text>Bethel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_15" Language="en_US">			<Text>Beersheba</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_16" Language="en_US">			<Text>Beit She'an</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_17" Language="en_US">			<Text>Ezion-Geber</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_18" Language="en_US">			<Text>Arad</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_19" Language="en_US">			<Text>Bethoron</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_20" Language="en_US">			<Text>Kinneret</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_21" Language="en_US">			<Text>Dor</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_22" Language="en_US">			<Text>Jezreel</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_23" Language="en_US">			<Text>Sokho</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_24" Language="en_US">			<Text>Bethlehem</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_25" Language="en_US">			<Text>Shechem</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_26" Language="en_US">			<Text>Berothai</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_27" Language="en_US">			<Text>Lechish</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_28" Language="en_US">			<Text>Beth Zur</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_29" Language="en_US">			<Text>Makaz</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_30" Language="en_US">			<Text>Ziklag</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_31" Language="en_US">			<Text>Aijalon</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_32" Language="en_US">			<Text>Zaretan</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_33" Language="en_US">			<Text>Jabesh-Gilead</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_34" Language="en_US">			<Text>Lebo-hamath</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_35" Language="en_US">			<Text>Abel-beth-maachah</Text></Row>
+		<Row Tag="LOC_CITY_NAME_LEU_ISRAEL_36" Language="en_US">			<Text>Dan</Text></Row>
+		
+		<!-- Citizens -->
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_1" Language="en_US">			<Text>Enoch</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_2" Language="en_US">			<Text>Noah</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_3" Language="en_US">			<Text>Jacob</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_4" Language="en_US">			<Text>Jerenuag</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_5" Language="en_US">			<Text>Jeduthun</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_6" Language="en_US">			<Text>Aaron</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_7" Language="en_US">			<Text>Joshua</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_8" Language="en_US">			<Text>Phinehas</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_9" Language="en_US">			<Text>Ezekiel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MALE_10" Language="en_US">			<Text>Samuel</Text></Row>
+		
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_1" Language="en_US">		<Text>Sarah</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_2" Language="en_US">		<Text>Ruth</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_3" Language="en_US">		<Text>Miriam</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_4" Language="en_US">		<Text>Esther</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_5" Language="en_US">		<Text>Abigail</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_6" Language="en_US">		<Text>Athaliah</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_7" Language="en_US">		<Text>Azubah</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_8" Language="en_US">		<Text>Abital</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_9" Language="en_US">		<Text>Phoebe</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_FEMALE_10" Language="en_US">		<Text>Rizpah</Text></Row>
+
+		<!-- Citizens Modern-->
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_1" Language="en_US">	<Text>Jacob</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_2" Language="en_US">	<Text>Lionel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_3" Language="en_US">	<Text>Chaim</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_4" Language="en_US">	<Text>Adin</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_5" Language="en_US">	<Text>Meir</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_6" Language="en_US">	<Text>Abraham</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_7" Language="en_US">	<Text>Berel</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_8" Language="en_US">	<Text>Menachem</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_9" Language="en_US">	<Text>Isaac</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_MALE_10" Language="en_US">	<Text>Benjamin</Text></Row>
+		
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_1" Language="en_US">			<Text>Shulamit</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_2" Language="en_US">			<Text>Oreet</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_3" Language="en_US">			<Text>Naomi</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_4" Language="en_US">			<Text>Ruth</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_5" Language="en_US">			<Text>Tamar</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_6" Language="en_US">			<Text>Yona</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_7" Language="en_US">			<Text>Anat</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_8" Language="en_US">			<Text>Adina</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_9" Language="en_US">			<Text>Sharon</Text></Row>
+		<Row Tag="LOC_CITIZEN_LEU_ISRAEL_MODERN_FEMALE_10" Language="en_US">		<Text>Yasmin</Text></Row>
+
+			
+	</LocalizedText>
+</GameData>

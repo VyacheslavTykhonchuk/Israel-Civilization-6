@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Replacement_Varanasi -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 12/16/2017 11:20:23 AM -->
+<GameData>
+
+	<LocalizedText>
+	<!--JERUSALEM CITY-STATE REPLACEMENT-->
+	<Replace Tag="LOC_CIVILIZATION_JERUSALEM_NAME" Language="en_US">
+		<Text>Varanasi</Text>
+	</Replace>
+	<Replace Tag="LOC_CITY_NAME_JERUSALEM" Language="en_US">
+		<Text>Varanasi</Text>
+	</Replace>
+	<Replace Tag="LOC_CIVILIZATION_JERUSALEM_DESCRIPTION" Language="en_US">
+		<Text>Varanasi city-state</Text>
+	</Replace>
+	<Replace Tag="LOC_CIVILIZATION_JERUSALEM_ADJECTIVE" Language="en_US">
+		<Text>Varanasi</Text>
+	</Replace>
+	<Replace Tag="LOC_LEADER_TRAIT_JERUSALEM_NAME" Language="en_US">
+		<Text>Varanasi Suzerain Bonus</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Archaeological evidence of the earliest known settlements in the vicinity of Varanasi suggest that such urban settlement of the area began ca. 2000 BC, placing Varanasi among the world's oldest continuously inhabited cities. These archaeological remains suggest that the Varanasi area was populated by Vedic people.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Text>In ancient times, Varanasi grew as an important industrial centre, famous for its muslin and silk fabrics, perfumes, ivory works, and sculpture. During the time of Gautama Buddha, Varanasi was part of the Kingdom of Kosala. The Buddha is believed to have founded Buddhism here around 528 BC when he gave his first sermon, "The Setting in Motion of the Wheel of Dharma", at nearby Sarnath.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_3" Language="en_US">
+		<Text>The celebrated Chinese traveller Xuanzang, also known as Hiuen Tsiang, who visited the city around 635 AD, attested that the city was a centre of religious and artistic activities, and that it extended for about 5 kilometres (3.1 mi) along the western bank of the Ganges. When Xuanzang, visited Varanasi in the 7th century, he named it "Polonisse" and wrote that the city had some 30 temples with about 30 monks. The city's religious importance continued to grow in the 8th century, when Adi Shankara established the worship of Shiva as an official sect of Varanasi.</Text>
+	</Replace>
+	<Replace Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_JERUSALEM_CHAPTER_HISTORY_PARA_4" Language="en_US">
+		<Text>Varanasi remained the centre of activity for intellectuals and theologians during the Middle Ages, which further contributed to its reputation as a cultural centre of religion and education. To this day, Varanasi remains an important cultural institution in India, and a popular tourist destination.</Text>
+	</Replace>
+
+	<!--INDIA VARANASI REPLACEMENT-->
+	<Replace Tag="LOC_CITY_NAME_VARANASI" Language="en_US">
+		<Text>Bhopal</Text>
+	</Replace>
+		</LocalizedText>
+</GameData>

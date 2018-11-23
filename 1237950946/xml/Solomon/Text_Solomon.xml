@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_Solomon -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 12/16/2017 10:48:45 AM -->
+<GameData>
+
+	<LocalizedText>
+
+	<!--LEADER-->
+	<Row Tag="LOC_LEADER_LEU_SOLOMON_NAME" Language="en_US">
+		<Text>Solomon</Text>
+	</Row>
+	<!--Agenda-->
+	<Row Tag="LOC_AGENDA_LEU_SOLOMON_NAME" Language="en_US">
+		<Text>Riddles of Sheba</Text>
+	</Row>
+	<Row Tag="LOC_AGENDA_LEU_SOLOMON_DESCRIPTION" Language="en_US">
+		<Text>Will try to generate as many Great People as he can. Likes civilizations who are their declared friends. Dislikes civilizations whose Faith output is low.</Text>
+	</Row>
+	
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+			<Text>May the lord bless your path further.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_SOLOMON_FRIENDLY" Language="en_US">
+			<Text>I see you are a good friend. Shall our bond forever benefit our kingdoms</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LEU_SOLOMON_FRIENDLY" Language="en_US">
+			<Text>(You have a Friendship with Solomon)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_SOLOMON_FRIENDLY" Language="en_US">
+			<Text>Solomon values your Declaration of Friendship with him</Text>
+		</Row>
+
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+			<Text>Your authority clearly doesn't come from El Shaddai. Your punishment shall come eventually.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_SOLOMON_PAGAN_HATER" Language="en_US">
+			<Text>Your people have no respect for Adonai Sebaot, so your destruction seems like a noble deed to make.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_SOLOMON_PAGAN_HATER" Language="en_US">
+			<Text>(You have captured too low faith)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_SOLOMON_PAGAN_HATER" Language="en_US">
+			<Text>Solomon doesn't respect you because of your Faith output</Text>
+		</Row>
+
+		
+		<!--DOM-->
+	<Row Tag="LOC_LOADING_INFO_LEADER_LEU_SOLOMON" Language="en_US">
+		<Text>The blessings of the Almighty are upon you, King Solomon of Israel. Your people call for you to lead them with wisdom and piety to unify the tribes in a powerful kingdom. As you build a Temple for worship, remember to establish Beth Dins and Sanhedrins in your growing kingdom, and defend it with the inspired Qallas. Succeed and you will forever be remembered by the faithful.</Text>
+	</Row>
+	<!--Traits-->
+	<Row Tag="LOC_TRAIT_LEADER_LEU_SOLOMON_NAME" Language="en_US">
+		<Text>First Temple</Text>
+	</Row>
+	<Row Tag="LOC_TRAIT_LEADER_LEU_SOLOMON_DESCRIPTION" Language="en_US">
+		<Text>The Temple built in your original capital city generates +3 [ICON_GREATPROPHET] Great Prophet Points, +3 [ICON_GREATWRITER]Great Writer Points and +3 [ICON_FAITH] Faith. It also triggers two random Inspirations and increases Religious Pressure in the city by 50%.</Text>
+	</Row>
+		
+<Row Tag="LOC_TRAIT_LEU_TEMPLE_INSPIRATION" Language="en_US">
+		<Text>Building the Temple of Jerusalem has inspired your people to thrive for divine wisdom!</Text>
+	</Row>
+
+
+		<!--Civilopedia-->
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_TITLE" Language="en_US">
+		<Text>Solomon</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_SUBTITLE" Language="en_US">
+		<Text>As iron sharpens iron, so a friend sharpens a friend.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_QUOTE" Language="en_US">
+		<Text>As iron sharpens iron, so a friend sharpens a friend.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Nearly all evidence for Solomon’s life and reign comes from the Bible (especially the first 11 chapters of the First Book of Kings and the first nine chapters of the Second Book of Chronicles). According to those sources, his father was David (flourished c. 1000 bce), the poet and king who, against great odds, founded the Judaean dynasty and united all the tribes of Israel under one monarch. Solomon’s mother was Bathsheba, formerly the wife of David’s Hittite general, Uriah. She proved to be adept at court intrigue, and through her efforts, in concert with the prophet Nathan, Solomon was anointed king while David was still alive, despite the fact that he was younger than his brothers.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_HISTORY_PARA_2" Language="en_US">
+		<Text>Material evidence for Solomon’s reign, as for that of his father, is scant. Although some scholars claim to have discovered artifacts that corroborate the biblical account of his reign in the early 10th century bce, others claim that the archaeological record strongly suggests that the fortified cities and even the Temple of Jerusalem actually emerged more than a century later. In the latter view, the kingdom of Solomon was far from the vast empire that the biblical narrative describes.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_HISTORY_PARA_3" Language="en_US">
+		<Text>The Bible says that Solomon consolidated his position by liquidating his opponents ruthlessly as soon as he acceded to the throne. Once rid of his foes, he established his friends in the key posts of the military, governmental, and religious institutions. Solomon also reinforced his position through military strength. In addition to infantry, he had at his disposal impressive chariotry and cavalry. The eighth chapter of 2 Chronicles recounts Solomon’s successful military operations in Syria. His aim was the control of a great overland trading route. To consolidate his interests in the province, he planted Israelite colonies to look after military, administrative, and commercial matters. Such colonies, often including cities in which chariots and provisions were kept, were in the long tradition of combining mercantile and military personnel to take care of their sovereign’s trading interests far from home. Megiddo, a town located at the pass through the Carmel range connecting the coastal plain with the Plain of Esdraelon, is the best-preserved example of one of the cities that Solomon is said to have established.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_HISTORY_PARA_4" Language="en_US">
+		<Text>Palestine was destined to be an important centre because of its strategic location for trade by land and sea. It alone connects Asia and Africa by land, and, along with Egypt, it is the only area with ports on the Atlantic-Mediterranean and Red Sea–Indian Ocean waterways. Solomon is said to have fulfilled the commercial destiny of Palestine and brought it to its greatest heights. The nature of his empire was predominantly commercial, and it served him and friendly rulers to increase trade by land and sea. One particularly celebrated episode in the reign of Solomon is the visit of the Queen of Sheba, whose wealthy southern Arabian kingdom lay along the Red Sea route into the Indian Ocean. Solomon needed her products and her trade routes for maintaining his commercial network, and she needed Solomon’s cooperation for marketing her goods in the Mediterranean via his Palestinian ports. Biblical legend makes much of a romance between the Queen and Solomon, and his granting her “all that she desired, whatever she asked” (1 Kings 10:13) has been interpreted to include a child.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_HISTORY_PARA_5" Language="en_US">
+		<Text>The biblical account of his reign states that Solomon’s personal prestige and genius were required to perpetuate the powerful nation he had acquired from his father and then further strengthened. It is suspected that the increase in Israel’s wealth was matched by an increase in extravagance and that the wealth was not diffused to the people. It is also considered possible that Solomon’s treatment of the northern tribes showed favouritism to his own tribe of Judah. Solomon’s son and successor, Rehoboam, ill-advisedly adopted a harsh policy toward the northern tribes, which seceded and formed their own kingdom of Israel. This left the descendants of Solomon with the southern kingdom of Judah. Thus, Solomon’s empire was lost beyond recall, and even the homeland was split into two often-hostile kingdoms.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_CAPSULE_BODY" Language="en_US">
+		<Text>Solomon's Israel is based around the strength of his capital. Build a temple and you will earn a lot of Great People early.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_SOLOMON_CHAPTER_DETAILED_BODY" Language="en_US">
+		<Text>As Solomon you must try to strengthen your capital as much as possible, and build the First Temple to make it a Great Person powerhouse. Expand and build Beth Dins to eventually get Great Work of Writing slots to fill your cities with additional faith and production.</Text>
+	</Row>
+	<!--Diplomacy-->
+	<!--FIRST MEET-->
+	<!--First AI line-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>A fool finds pleasure in wicked schemes, but a person of understanding delights in wisdom. Which will you be?</Text>
+	</Row>
+	<!--AI invitation to visit nearby City-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>There is a big celebration in Jerusalem because of my many public works. Care to join?</Text>
+	</Row>
+	<!--AI accepts Human invitation-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I would be honored.</Text>
+	</Row>
+	<!--AI invitation to exchange Capital Information-->
+	<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>Knowledge and wisdom are powerful tools granted by the Lord. Would you care for exchanging information about our lands?</Text>
+	</Row>
+	<!--GREETINGS-->
+	<Row Tag="LOC_DIPLO_GREETING_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>So let it be.</Text>
+	</Row>
+	<!--DELEGATION-->
+	<!--AI Accepts-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>It is the wise thing to do.</Text>
+	</Row>
+	<!--AI Rejects-->
+	<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I don't consider it wise.</Text>
+	</Row>
+	<!--AI Requests -->
+	<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I have sent a delegation with olives and some of the proverbs I wrote. Hopefully they will bring enlightenment to your people.</Text>
+	</Row>
+	<!--OPEN BORDERS-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I trust your people enough to let them pass. Show me that my judgment isn't clouded</Text>
+	</Row>
+	<!--AI rejects from human-->
+	<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>It wouldn't be a rightful judgement to accept.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>These lands are blessed by the Lord, and was given to my people as the Promised Land. Will you allow us to walk freely through it by opening your borders?</Text>
+	</Row>
+	<!--DECLARE FRIENDSHIP-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>As iron sharpens iron, so a friend sharpens a friend.</Text>
+	</Row>
+	<!--AI Rejects from human -->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>Don't be foolish.</Text>
+	</Row>
+	<!--AI Requests friendship from human-->
+	<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I consider you my friend, my beloved. The Lord has shown me that declaring our friendship will only lead us to prosperity.</Text>
+	</Row>
+	<!--Human accepts AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>You are wise indeed friend.</Text>
+	</Row>
+	<!--Human rejects AI requests, AI responds-->
+	<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I thought you would be wiser... but I see you are nothing but a fool</Text>
+	</Row>
+	<!--ALLIANCE-->
+	<!--AI Requests an alliance from human-->
+	<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>The faithful must remain together and fight together in the name of the Lord of the Armies. Let us join in an alliance!</Text>
+	</Row>
+	
+	<!--AI warns player for border troops-->
+	<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>These lands were given to the chosen people by the Lord himself. I ask you take your filthy troops from them.</Text>
+	</Row>
+	<!--TRADE-->
+	<!--AI Accepts Deal-->
+	<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I accept, with the blessings of my Lord.</Text>
+	</Row>
+	<!--AI Rejects Deal-->
+	<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>Your judgment is clouded by your ambition I see.</Text>
+	</Row>
+	<!--DENOUNCE-->
+	<!--From Human-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>You dare denounce the chosen of the Lord? Truly your foolishness knows no boundaries</Text>
+	</Row>
+	<!--From AI-->
+	<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>I was chosen by the Lord to pronounce his divine judgment against fools such as you.</Text>
+	</Row>
+	<!--Rationale-->
+
+	<!--DECLARE WAR-->
+	<!--Human Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>Your evil deeds will be the cause of your downfall, for the Lord protects me at every step!</Text>
+	</Row>
+	<!--AI Declares War-->
+	<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>It is the will of the Lord that I crush you with the might of his troops. Prepare yourself for righteous judgment!</Text>
+	</Row>
+	<!--MAKE PEACE-->
+	<!--AI accepts from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>It is the will of the Lord that I accept.</Text>
+	</Row>
+	<!--AI refuses human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>That wouldn't be wise.</Text>
+	</Row>
+	<!--AI requests from human-->
+	<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>It would be wise to end this war for the good of our people. Will you accept?</Text>
+	</Row>
+	<!--DEFEAT-->
+	<!--AI is Defeated-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>The Lord has punished me for my many sins, and granted you victory. My people will now lie scattered, but one day the Lord will reunite the faithful against your vile empire.</Text>
+	</Row>
+	<!--Human is Defeated (will see this in hotseat)-->
+	<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LEU_SOLOMON_ANY" Language="en_US">
+		<Text>So let it be.</Text>
+	</Row>
+
+
+	</LocalizedText>
+</GameData>

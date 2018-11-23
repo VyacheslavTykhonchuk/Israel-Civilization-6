@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_Qalla -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 12/16/2017 10:43:59 AM -->
+<GameData>
+	<LocalizedText>
+		
+	<Row Tag="LOC_UNIT_LEU_QALLA_NAME" Language="en_US">
+		<Text>Qalla</Text>
+	</Row>
+	<Row Tag="LOC_UNIT_LEU_QALLA_DESCRIPTION" Language="en_US">
+		<Text>Israelite replacement for the Slinger, may be bought with [Icon_Faith] Faith with a reduced cost and grants [ICON_GREATPROPHET] Great Prophet points when killing enemy units. They also receive a combat bonus against Barbarian Units.
+		</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_LEU_QALLA_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>Qalla was the name given to Slingers by Hebrews. the sling was a common weapon used by the Hebrews on the battlefield, but the ranged weapon was also their primary weapon in siege warfare. When the Hebrews besieged the Moabite city of Kir-hareseth in the 9th century B.C., their slingers were so devastating that the Moabites were forced to send out 700 warriors to end the siege, but they were instead driven back to their fortifications. Like the Hebrews, many armies of the ancient world used slingers when conducting sieges because the arching trajectory of sling projectiles meant that they could fly over walls and still strike defenders.</Text>
+	</Row>
+		<Row Tag="LOC_ABILITY_QALLA_DESCRIPTION" Language="en_US">
+			<Text>(David vs Goliath) +7 against Barbarian Units.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

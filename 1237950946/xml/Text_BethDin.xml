@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_BethDin -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 12/16/2017 10:36:44 AM -->
+<GameData>
+	<LocalizedText>
+	
+	<Row Tag="LOC_BUILDING_LEU_BETH_DIN_NAME" Language="en_US">
+		<Text>Beth Din</Text>
+	</Row>
+	<Row Tag="LOC_BUILDING_LEU_BETH_DIN_DESCRIPTION" Language="en_US">
+		<Text>Unique Israelite replacement for the Monument Building. The Beth Din generates +1 [ICON_CULTURE] Cultureh and +1 [ICON_GREATPERSON] Great Writer points. Once the city reaches 10 citizens the Beth Din turns into a Sanhedrin, receiving a Great Work of Writing slot and multiplying the bonuses of the Beth Din by 3.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_BUILDING_LEU_BETH_DIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>A Beth Din is a rabbinical court of Judaism. In ancient times, it was the building block of the legal system in the Biblical Land of Israel. Today, it is invested with legal powers in a number of religious matters (din Torah, "matter of litigation", plural dinei Torah) both in Israel and in Jewish communities in the Diaspora, where its judgments hold varying degrees of authority (depending upon the jurisdiction and subject matter) in matters specifically related to Jewish religious life.</Text>
+	</Row>
+
+	<Row Tag="LOC_BUILDING_LEU_SANHEDRIN_NAME" Language="en_US">
+		<Text>Sanhedrin</Text>
+	</Row>
+	<Row Tag="LOC_BUILDING_LEU_SANHEDRIN_DESCRIPTION" Language="en_US">
+		<Text>Evolved form of the Israelite Beth Din, provides +3 [Icon_Culture] Culture and +3 [ICON_GREATPERSON] Great Writer Points, as well as a Great Work Slot.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_IMPROVEMENTS_PAGE_BUILDING_LEU_SANHEDRIN_CHAPTER_HISTORY_PARA_1" Language="en_US">
+		<Text>The Sanhedrin  was an assembly of twenty-three to seventy-one men appointed in every city in the Land of Israel. In the Hebrew Bible, Moses and the Israelites were commanded by God to establish courts of judges who were given full authority over the people of Israel, who were commanded by God to obey every word the judges instructed and every law they established. Judges in ancient Israel were the religious leaders and Teachers of the nation of Israel. The Mishnah arrives at the number twenty-three based on an exegetical derivation: it must be possible for a "community" to vote for both conviction and exoneration.</Text>
+	</Row>
+
+	</LocalizedText>
+</GameData>

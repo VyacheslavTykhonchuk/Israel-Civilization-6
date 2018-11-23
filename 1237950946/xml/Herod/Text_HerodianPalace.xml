@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+
+		<Row Tag="LOC_DISTRICT_LEU_HERODIAN_PALACE_NAME" Language="en_US">
+			<Text>Palatial Fortress</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_LEU_HERODIAN_PALACE_DESCRIPTION" Language="en_US">
+			<Text>Unique District for Herod I unlocked at the discovery of Engineering. Palatial Fortresess receive a [ICON_GOLD] Gold adjacency bonus from adjacent Holy Sites and World Wonders. It also allows to use production on the Get Tributes project, which reduces the city amenities by 5 but generates a large amount of Gold every turn and grants [Icon_GreatEngineer] Great Engineer points upon completion.
+			</Text>
+		</Row>
+
+		<Row Tag="LOC_HERODIAN_PALACE_WONDER_ADJ" Language="en_US">
+			<Text>+2 [ICON_Gold] Gold from adjacent Wonders.</Text>
+		</Row>
+		<Row Tag="LOC_HERODIAN_PALACE_HOLY_ADJ" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold from adjacent Holy Sites.</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LEU_HEROD_TRIBUTES_NAME" Language="en_US">
+			<Text>Get Tributes</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LEU_HEROD_TRIBUTES_SHORT_NAME" Language="en_US">
+			<Text>Get Tributes</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_LEU_HEROD_TRIBUTES_DESCRIPTION" Language="en_US">
+			<Text>Getting Tributes allows you to largely increase the city's [Icon_Gold] Gold per turn at the cost of 5 [Icon_Amenities] Amenities. Completing the Tributes project grants [ICON_GREATENGINEER] Great Engineer Points.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICS_PAGE_DISTRICT_LEU_HERODIAN_PALACE_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Herod was known for his lavish construction projects. He built an extravagant palace for himself along the West Wall in Jerusalem. Herod also build the city of Caesarea, a major port and the Roman administrative center for Palestine that is located midway between Tel Aviv and Haifa in Israel. Casearea featured several engineering marvels including a unique breakwater system in the harbor and city sewers designed to flush into the sea. One of Herod’s greatest achievements was the construction of Temple Mount and the reconstruction of the Jerusalem Temple (aka the Second Temple or Herod’s Temple that Jesus and the disciples knew) which he began in 19 BC.</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

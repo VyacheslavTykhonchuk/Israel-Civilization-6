@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Text_Solomon -->
+<!-- Author: MuXu -->
+<!-- DateCreated: 12/16/2017 10:48:45 AM -->
+<GameData>
+
+	<LocalizedText>
+
+		<!--LEADER-->
+		<Row Tag="LOC_LEADER_LEU_HEROD_NAME" Language="en_US">
+			<Text>Herod</Text>
+		</Row>
+		<!--Agenda-->
+		<Row Tag="LOC_AGENDA_LEU_HEROD_NAME" Language="en_US">
+			<Text>Massacre of the Innocents</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_LEU_HEROD_DESCRIPTION" Language="en_US">
+			<Text>Dislikes leaders with more Faith and with less Gold than him and hugely dislikes leaders that denounce him. Likes leaders that conquered many cities from other civilizations.</Text>
+		</Row>
+
+		<!--KUDOS & WARNINGS-->
+		<!--AI Kudos-->
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>I see your prosperity with envy. Truly you've been blessed.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_LEU_HEROD_CONQUEROR_LOVER" Language="en_US">
+			<Text>Your conquests show me a powerful leader, worth following. Truly I'd appreciate being even your vassal, oh powerful emperor.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_LEU_HEROD_CONQUEROR_LOVER" Language="en_US">
+			<Text>(You have conquered many cities)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_HEROD_CONQUEROR_LOVER" Language="en_US">
+			<Text>Herod likes the fact that you conquered many cities</Text>
+		</Row>
+
+		<!--AI Warnings-->
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Pitiful.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_HEROD_POOR_HATER" Language="en_US">
+			<Text>Ugh. You're filthy, and your beliefs only lead your people to poverty. Can't you see the majestuosity of my palaces? You're not worth keeping alive</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_HEROD_POOR_HATER" Language="en_US">
+			<Text>(You have too high faith and too low gold)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_HEROD_POOR_HATER" Language="en_US">
+			<Text>Solomon doesn't respect you because of your Faith and Gold output</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_LEU_HEROD_DENOUNCER_HATER" Language="en_US">
+			<Text>No one who dares denounce a Roman Governor shall live. I will just ask for your head.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_LEU_HEROD_DENOUNCER_HATER" Language="en_US">
+			<Text>(You have denounced him)</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_MODIFIER_LEU_HEROD_DENOUNCER_HATER" Language="en_US">
+			<Text>Herod is very angry you denounced him</Text>
+		</Row>
+
+		
+		<!--DOM-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_LEU_HEROD" Language="en_US">
+			<Text>Greetings Herod the Great, governor of Judea. You come in a time of unrest, and your strategy must move your people to build wonderful palaces worthy of your glory. Keeping your people loyal with the majestic buildings, you may grow in riches from them by asking the tributes you deserve. Even if your people revolt against you, you will forever be remembered as a great builder thanks to your achievements.</Text>
+		</Row>
+		<!--Traits-->
+		<Row Tag="LOC_TRAIT_LEADER_LEU_HEROD_NAME" Language="en_US">
+			<Text>Architectural Hellenization</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_LEU_HEROD_DESCRIPTION" Language="en_US">
+			<Text>5% Increased World Wonder [ICON_PRODUCTION] Production for every Holy Site and Aqueduct in a city. World Wonders next to Holy Sites grant an [ICON_AMENITIES] Amenity. May build Palatial Fortresses at the discovery of Engineering.</Text>
+		</Row>
+		<!--Civilopedia-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_TITLE" Language="en_US">
+			<Text>Herod I</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_SUBTITLE" Language="en_US">
+			<Text>The Great</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_QUOTE" Language="en_US">
+			<Text>Slander is a most serious evil; it implies two who do wrong and one who is doubly wronged</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Herod, byname Herod the Great, Latin Herodes Magnus, (born 73 bce—died March/April, 4 bce, Jericho, Judaea), Roman-appointed king of Judaea (37–4 bce), who built many fortresses, aqueducts, theatres, and other public buildings and generally raised the prosperity of his land but who was the centre of political and family intrigues in his later years. The New Testament portrays him as a tyrant, into whose kingdom Jesus of Nazareth was born.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Herod was born in southern Palestine. His father, Antipater, was an Edomite (a Semitic people, identified by some scholars as Arab, who converted to Judaism in the 2nd century bce). Antipater was a man of great influence and wealth who increased both by marrying the daughter of a noble from Petra (in southwestern Jordan), at that time the capital of the rising Arab Nabataean kingdom. Thus, Herod was of Arab origin, although he was a practicing Jew.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>In 40 bce the Parthians invaded Palestine, civil war broke out, and Herod was forced to flee to Rome. The senate there nominated him king of Judaea and equipped him with an army to make good his claim. In the year 37 bce, at the age of 36, Herod became the unchallenged ruler of Judaea, a position he was to maintain for 32 years. To further solidify his power, he divorced his first wife, Doris, sent her and his son away from court, and married Mariamne, a Hasmonean princess. Although the union was directed at ending his feud with the Hasmoneans, a priestly family of Jewish leaders, he was deeply in love with Mariamne.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Herod became the close friend of Augustus’s great minister Marcus Vipsanius Agrippa, after whom one of his grandsons and one of his great-grandsons were named. Both the emperor and the minister paid him state visits, and Herod twice again visited Italy. Augustus gave him the oversight of the Cyprus copper mines, with a half share in the profits. He twice increased Herod’s territory, in the years 22 and 20 bce, so that it came to include not only Palestine but parts of what are now the kingdom of Jordan to the east of the river and southern Lebanon and Syria. He had intended to bestow the Nabataean kingdom on Herod as well, but, by the time that throne fell vacant, Herod’s mental and physical deterioration made it impossible.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>Herod endowed his realm with massive fortresses and splendid cities, of which the two greatest were new, and largely pagan, foundations: the port of Caesarea Palaestinae on the coast between Joppa (Jaffa) and Haifa, which was afterward to become the capital of Roman Palestine; and Sebaste on the long-desolate site of ancient Samaria. At Herodium in the Judaean desert Herod built a great palace, which archaeologists in 2007 tentatively identified as the site of his tomb. In Jerusalem he built the fortress of Antonia, portions of which may still be seen beneath the convents on the Via Dolorosa, and a magnificent palace (of which part survives in the citadel). His most grandiose creation was the Temple, which he wholly rebuilt. The great outer court, 35 acres (14 hectares) in extent, is still visible as Al-Ḥaram al-Sharīf. He also embellished foreign cities—Beirut, Damascus, Antioch, Rhodes—and many towns. Herod patronized the Olympic Games, whose president he became. In his own kingdom he could not give full rein to his love of magnificence, for fear of offending the Pharisees, the leading faction of Judaism, with whom he was always in conflict because they regarded him as a foreigner. Herod undoubtedly saw himself not merely as the patron of grateful pagans but also as the protector of Jewry outside of Palestine, whose Gentile hosts he did all in his power to conciliate.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_CAPSULE_BODY" Language="en_US">
+			<Text>Herod's Israel is based on building Wonders to increase the bonuses of his Palatial Fortresses.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_LEU_HEROD_CHAPTER_DETAILED_BODY" Language="en_US">
+			<Text>As Herod I, you must focus on getting Holy Sites and Aqueducts so you get strong Wonder Production bonuses. With the aid of Wonders and Holy Sites your Palatial Fortresses will become strong sources of gold, with or without Tributes.</Text>
+		</Row>
+		<!--Diplomacy-->
+		<!--FIRST MEET-->
+		<!--First AI line-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Who dares enter the glorious palace of Herod the Great? An emperor? Or a beggar? Come, meet Herod the Great, King of Judea</Text>
+		</Row>
+		<!--AI invitation to visit nearby City-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>The Temple I built is overflowing with people. And I have a palace with a nice view of it. Care to join me as I see the people rejoice with my wonders?</Text>
+		</Row>
+		<!--AI accepts Human invitation-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>With pleasure.</Text>
+		</Row>
+		<!--AI invitation to exchange Capital Information-->
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Tell me of your capital, your cities, your buildings. No need to hide anything from me.</Text>
+		</Row>
+		<!--GREETINGS-->
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Agreed.</Text>
+		</Row>
+		<!--DELEGATION-->
+		<!--AI Accepts-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>I accept your tributes.</Text>
+		</Row>
+		<!--AI Rejects-->
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Such poor taste, I can't accept your delegation.</Text>
+		</Row>
+		<!--AI Requests -->
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>I have sent some wise men to visit you, they come with gifts of Gold, Frankincense and Myrrh. Receive them without fear.</Text>
+		</Row>
+		<!--OPEN BORDERS-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Remember that my troops are ready to react at the slightest sight of revolts</Text>
+		</Row>
+		<!--AI rejects from human-->
+		<Row Tag="LOC_DIPLO_REJECT_OPEN_BORDERS_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>These are my lands, you fool, not yours.</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_OPEN_BORDERS_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>All roads lead to Rome, specially when we allow our borders to be opened. Join our glory and open your borders great leader.</Text>
+		</Row>
+		<!--DECLARE FRIENDSHIP-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>The Great ones must work together</Text>
+		</Row>
+		<!--AI Rejects from human -->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Don't be foolish.</Text>
+		</Row>
+		<!--AI Requests friendship from human-->
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Look at us, two rich governors. If we have a declaration of Friendship imagine how richer we can be!</Text>
+		</Row>
+		<!--Human accepts AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Excellent!</Text>
+		</Row>
+		<!--Human rejects AI requests, AI responds-->
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Your riches will be mine, regardless</Text>
+		</Row>
+		<!--ALLIANCE-->
+		<!--AI Requests an alliance from human-->
+		<Row Tag="LOC_DIPLO_MAKE_ALLIANCE_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Hey majestic friend! Let us form an alliance to grow even more!</Text>
+		</Row>
+
+		<!--AI warns player for border troops-->
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Are you testing the might of my troops? Truly you don't understand your weakness; get your troops out of my sight</Text>
+		</Row>
+		<!--TRADE-->
+		<!--AI Accepts Deal-->
+		<Row Tag="LOC_DIPLO_ACCEPT_MAKE_DEAL_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>I accept</Text>
+		</Row>
+		<!--AI Rejects Deal-->
+		<Row Tag="LOC_DIPLO_REJECT_MAKE_DEAL_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Ugh... how pitiful</Text>
+		</Row>
+		<!--DENOUNCE-->
+		<!--From Human-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>You will regret this, fool.</Text>
+		</Row>
+		<!--From AI-->
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>The likes of you are not meant to rule. Let the world know of your foolishness.</Text>
+		</Row>
+		<!--Rationale-->
+
+		<!--DECLARE WAR-->
+		<!--Human Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>*Laughs*</Text>
+		</Row>
+		<!--AI Declares War-->
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Your lands will make a good addition to my list of tributaries</Text>
+		</Row>
+		<!--MAKE PEACE-->
+		<!--AI accepts from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_ACCEPT_DEAL_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Finally</Text>
+		</Row>
+		<!--AI refuses human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_AI_REFUSE_DEAL_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>Scared of my might?</Text>
+		</Row>
+		<!--AI requests from human-->
+		<Row Tag="LOC_DIPLO_MAKE_PEACE_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>We got what we needed from this war, let us have peace</Text>
+		</Row>
+		<!--DEFEAT-->
+		<!--AI is Defeated-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>The prophecies were right... a new king of Judea rises... but alas, it was no infant... I have slaughetered many to prevent this moment. But now my palaces burn...</Text>
+		</Row>
+		<!--Human is Defeated (will see this in hotseat)-->
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_LEU_HEROD_ANY" Language="en_US">
+			<Text>So let it be.</Text>
+		</Row>
+
+
+	</LocalizedText>
+</GameData>
