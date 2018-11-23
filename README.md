@@ -10,4 +10,4 @@ Fix for Israel Mod in Civilization 6
 5. Paste ```1237950946```
 6. Launch game
 
-*At this moment only Solomon is playable*
+*At this moment only **Solomon** is playable*
